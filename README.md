@@ -48,7 +48,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/ifhWvLxSB7QZ9DsfZNoqPm/Stage-03---Mobile-First-(Copy)?node-id=0-1&t=qYK1KB9EEKJvVY0B-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo. 
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/p2mDoTHz7BBj11As2X9Emb/Stage-03-Mobile-First-Copy?fuid=1197013043550409364). É necessário ter conta no [Figma](https://figma.com) para acessá-lo. 
 <div>
   <img align="centeer" alt"FIGMA" height="30" widht"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 </div>
